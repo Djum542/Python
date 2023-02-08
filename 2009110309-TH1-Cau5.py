@@ -1,0 +1,6 @@
+name = input()
+old = input()
+year = 2023 - int(old)
+print("Nhập vào tên:"+name)
+print("Nhập vào năm sinh"+old)
+print("Năm nay bạn "+name+"" +str(year)+""+"tuoi")
